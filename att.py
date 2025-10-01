@@ -91,3 +91,6 @@ plt.title("Notas por Modalidade")
 plt.xlabel("Modalidade (0 = Presencial, 1 = EAD)")
 plt.ylabel("Nota Geral")
 plt.show()
+
+//
+
